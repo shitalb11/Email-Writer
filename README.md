@@ -1,4 +1,5 @@
 **EMAIL WRITER: This project helps users generate professional emails using AI.**
+
 An AI-powered Email Writer project that includes:
 • Frontend Application
 • Backend API
@@ -6,10 +7,9 @@ An AI-powered Email Writer project that includes:
 
 **Project Structure**
 Email-Writer/
-│
-├── Backend/      # Spring Boot Backend
-├── Frontend/     # React Frontend
-└── Extension/    # Chrome Extension
+->Backend/      # Spring Boot Backend
+->Frontend/     # React Frontend
+->Extension/    # Chrome Extension
 
 **Technologies Used**
 1) Frontend
